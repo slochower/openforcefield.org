@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NIH on Open Force Field Initiative</title>
+    <link>//openforcefield.org/tags/nih/</link>
+    <description>Recent content in NIH on Open Force Field Initiative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//openforcefield.org/tags/nih/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Force Field Initiative applies for NIH funding</title>
+      <link>//openforcefield.org/news/seeking-nih-funding/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//openforcefield.org/news/seeking-nih-funding/</guid>
+      <description>The ultimate goal of the Open Force Field Initiative is to produce modern, high-quality tools for building better force fields, and to apply these tools to produce consistently more accurate generations of biomolecular force fields that are incredibly easy to use in a variety of molecular simulation packages.
+Anyone who has tried simulating complex, heterogeneous systems involving small molecules, proteins, lipids, nucleic acids, carbohydrates, post-translational modifications, cofactors, and covalent ligands (or any subset of these!</description>
+    </item>
+    
+  </channel>
+</rss>
